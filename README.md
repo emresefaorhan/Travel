@@ -1,2 +1,2 @@
 # Travel
-<img= src="./images/Travel.jpg"/>
+<img src="./images/Travel.jpg"/>
